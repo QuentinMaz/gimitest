@@ -15,6 +15,11 @@ See examples in the `examples` folder.
 
 ## 🚀 Getting Started
 This anonymized version of the package only allows for local use.
+Download this repository and install the package with
+
+```
+pip install -e .
+```
 
 Gimitest allows us to decorate our first environment with **only a few extra lines**:
 ```

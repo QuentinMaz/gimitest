@@ -14,11 +14,7 @@ We use the decorator design pattern to extend the `reset(...)` and `step(...)` m
 See examples in the `examples` folder.
 
 ## 🚀 Getting Started
-Install package via:
-
-```
-pip install git+https://github.com/DennisGross/gimitest.git
-```
+This anonymized version of the package only allows for local use.
 
 Gimitest allows us to decorate our first environment with **only a few extra lines**:
 ```

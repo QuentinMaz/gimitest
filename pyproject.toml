@@ -5,9 +5,7 @@ build-backend = "setuptools.build_meta"
 [project]
 name = "gimitest"
 authors = [
-  { name="Gross Dennis", email="dennis@simula.no" },
-  { name="Mazouni Quentin", email="quentin@simula.no" },
-  { name="Spieker Helge", email="helge@simula.no" }
+  { name="Anonymous" },
 ]
 version = "1.0"
 description = "A flexible framework for evaluating reinforcement learning agents in Farama Gymnasium and PettingZoo environments."
@@ -40,9 +38,6 @@ dependencies = [
     "typing_extensions",
     "tzdata",
 ]
-
-[project.urls]
-"Homepage" = "https://github.com/DennisGross/gimitest"
 
 [project.optional-dependencies]
 dev = [

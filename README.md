@@ -12,8 +12,6 @@ We use the decorator design pattern to extend the `reset(...)` and `step(...)` m
 - *Automated testing*
 
 See examples in the `examples` folder.
-Watch the [video](https://youtu.be/9WiWZyrUhLw) for a quick demonstration.
-
 
 ## 🚀 Getting Started
 Install package via:
@@ -74,10 +72,7 @@ GTestDecorator.decorate_with_logger(m_gtest, m_logger)
 ## 🛠️ Modifications
 If you want to modify Gimitest, please follow the steps below:
 
-1. Clone the repository:
-```
-git clone https://github.com/DennisGross/gimitest.git
-```
+1. Clone this repository
 
 2. Install the requirements:
 ```
@@ -85,19 +80,3 @@ pip install -r requirements.txt
 ```
 
 3. Modify the code as you wish.
-
-
-
-## 📜 Citation
-If you use Gimitest in your research, please cite the following:
-```
-@software{Gross_gimitest_2025,
-  author = {Gross, Dennis and Mazouni, Quentin and Spieker, Helge},
-  license = {MIT},
-  month = may,
-  title = {{Gimitest: A Comprehensive Tool for Testing Reinforcement Learning Policies}},
-  url = {https://github.com/DennisGross/gimitest},
-  version = {1.0},
-  year = {2025}
-}
-```
